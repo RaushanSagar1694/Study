@@ -13,9 +13,9 @@
 // let isTrue = Boolean(num)
 // console.log(isTrue)
 
-let pass = 123
-let str = String(pass)
-console.log(typeof str);
+// let pass = 123
+// let str = String(pass)
+// console.log(typeof str);
 
 
 
